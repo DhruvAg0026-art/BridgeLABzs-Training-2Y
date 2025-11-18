@@ -1,0 +1,28 @@
+{
+  "name": "data-structures-assignment",
+  "version": "1.0.0",
+  "description": "A project implementing various data structures and systems including List, Set, Queue interfaces and management systems.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^7.32.0"
+  },
+  "keywords": [
+    "data structures",
+    "typescript",
+    "assignment"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
